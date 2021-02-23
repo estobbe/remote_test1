@@ -1,2 +1,2 @@
-def addTwoNums(a,b)
+def calc(a,b)
   return a+b
